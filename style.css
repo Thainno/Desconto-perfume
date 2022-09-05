@@ -82,4 +82,9 @@ body {
     font-size: 20px;
 }
 
+.botao:hover {
+    background-color: hsl(158, 38%, 48%);
+    cursor: pointer;
+}
+
 
