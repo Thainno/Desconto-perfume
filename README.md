@@ -1,5 +1,14 @@
 <h1>Página perfume</h1>
-<p><a href="https://thainno.github.io/desconto-perfume/">Visualize aqui</a></p>
 
-<p>Página criada a partir de um site que propõe desafios para praticar.<br>
-Link do site: https://www.frontendmentor.io/challenges</p>
+<p></p>
+
+<h2>Prévia</h2>
+
+<p>Clique <a href="https://thainno.github.io/desconto-perfume/">aqui</a> para visualizar e testar o projeto.</p
+
+<img src=""></img>
+
+### 
+
+<h1>Referências</h1>
+<p>Link do site com o desafio do projeto: <a href="https://www.frontendmentor.io/"</a></p>
